@@ -1,0 +1,10 @@
+{
+  "LANDING": {
+    "LINE1": "Localization em Angular usando ngx-translate",
+    "LINE2": "Testando o NGX-translate",
+    "LINE3": "Bem-vindo ao sistema de tradução!",
+    "PROPERTY": {
+      "LINE": "Traduzido usando property binding, baseado no projeto de Shubhrank Rastogi"
+    }
+  }
+}
